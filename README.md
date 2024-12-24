@@ -12,7 +12,7 @@ DecomyTree is intended solely for entertainment purposes, helping you create mem
 
 ## How to Use
 Press F12 in decomytree.com then go to Source -> F5, Scroll down found some blahblah....?by_app=false then click on it, scroll down and copy the authorization and put in ur script
-![image](https://github.com/user-attachments/assets/356797d6-3ef3-4b12-ae49-38e8cc4f70d2)![image](https://github.com/user-attachments/assets/49190271-5c26-48a9-969a-374c94499e1a)
+![image](https://github.com/user-attachments/assets/356797d6-3ef3-4b12-ae49-38e8cc4f70d2)
 ![idk](https://github.com/user-attachments/assets/b15a9810-cbe8-404f-ae28-b1974734a8ca)
 
 1. Download the main.py.
